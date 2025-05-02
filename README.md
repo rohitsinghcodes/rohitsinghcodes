@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Hi there, I'm Rohit Singh!
 
-<!--
-**rohitsinghcodes/rohitsinghcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎯 Full-Stack Developer & Data Structures Enthusiast
+- 🏏⚽ Passionate about Cricket, Football & Solving Puzzles
+- 💡 Always trying new approaches to problem-solving
+- 🌱 Currently learning advanced full-stack development
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- 💻 **Languages:** JavaScript, Python, C++
+- 🌐 **Frontend:** React, Tailwind CSS, HTML, CSS
+- 🏗 **Backend:** Node.js, Express.js, MongoDB
+- 🔧 **Tools & Platforms:** Git, GitHub, Docker, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitSinghCodes&show_icons=true&theme=radical)
+
+### 📜 Submissions & Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitSinghCodes&layout=compact&langs_count=10&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RohitSinghCodes&theme=radical)
+
+### 🌍 Portfolio
+Check out my work: [Portfolio Website](https://rohitsinghcodes-portfolio.onrender.com/)
+
+### 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/RohitSinghCodes/)
+- 📧 [Email](mailto:kumar.rohitsingh37@gmail.com)
+- 🐦 [Twitter](https://twitter.com/RohitSinghCodes)
+
+⭐ **Feel free to check out my repos and contribute!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=RohitSinghCodes&color=blue)
