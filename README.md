@@ -22,11 +22,9 @@
 
 ## 📁 Portfolio
 
-
----
-
 🌐 View full portfolio here: [Portfolio](https://rohitsinghcodes-portfolio.onrender.com/)
 
+---
 
 ## 📊 Featured Project
 
