@@ -35,7 +35,7 @@
 | **10 Projects in 10 Days**     | HTML, CSS, JS, Python, React, Flask, Node.js, APIs           | [View All Projects](https://github.com/rohitsinghcodes/10-days-10-projects/blob/main/README.md)|
 ---
 
-## 🧰 Languages & 
+## 🧰 Languages & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
@@ -63,6 +63,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
   &nbsp;
 </p>
+
+---
+
+### 🧠 My LeetCode Activity
+
+[![LeetCode Stats Card](https://leetcard.jacoblin.cool/rohitsinghcodes?theme=unicorn&ext=activity)](https://leetcode.com/rohitsinghcodes)
 
 ---
 
