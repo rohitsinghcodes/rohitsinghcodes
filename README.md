@@ -32,25 +32,44 @@
 
 | Project Name      | Tech Stack                                              | Live Demo                                                              |
 | ----------------- | ------------------------------------------------------- | ---------------------------------------------------------------------- |
-| **BookStore App** | MERN (MongoDB, Express.js, React, Node.js), TailwindCSS | [Live On Internet](https://bookstore.rohitsinghcodes.com) |
+| **BookStore App** | MERN (MongoDB, Express.js, React, Node.js), TailwindCSS | [Live On Internet](https://ebookstore-webapp.onrender.com/)|
 | **Hospital Management System** | MERN Stack, JWT Auth, Admin Panel, TailwindCSS               | 🏗️ Coming Soon .                      |
 | **10 Projects in 10 Days**     | HTML, CSS, JS, Python, React, Flask, Node.js, APIs           | [View All Projects](https://github.com/rohitsinghcodes/10-days-10-projects/blob/main/README.md)|
 ---
 
 ## 🧰 Languages & Tools
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
-
+<p align="left" style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <span style="background-color: #ffffff20; padding: 8px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s; display: flex; align-items: center; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  </span>
+  <span style="background-color: #ffffff20; padding: 8px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s; display: flex; align-items: center; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+  </span>
+  <span style="background-color: #ffffff20; padding: 8px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s; display: flex; align-items: center; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+  </span>
+  <span style="background-color: #ffffff20; padding: 8px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s; display: flex; align-items: center; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" style="filter: invert(100%);" />
+  </span>
+  <span style="background-color: #ffffff20; padding: 8px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s; display: flex; align-items: center; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+  </span>
+  <span style="background-color: #ffffff20; padding: 8px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s; display: flex; align-items: center; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  </span>
+  <span style="background-color: #ffffff20; padding: 8px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s; display: flex; align-items: center; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
+  </span>
+  <span style="background-color: #ffffff20; padding: 8px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s; display: flex; align-items: center; justify-content: center;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+  </span>
+  <span style="background-color: #ffffff20; padding: 8px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s; display: flex; align-items: center; justify-content: center;">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+  </span>
+  <span style="background-color: #ffffff20; padding: 8px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s; display: flex; align-items: center; justify-content: center;">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
+  </span>
 </p>
 
 ---
