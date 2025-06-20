@@ -78,7 +78,7 @@
 <h2>🧠 My LeetCode Activity</h2>
 <p align="center">
   <a href="https://leetcode.com/rohitsinghcodes">
-    <img src="https://leetcard.jacoblin.cool/rohitsinghcodes?theme=unicorn&ext=activity" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/rohitsinghcodes?theme=dark&font=Coda%20Caption&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 
