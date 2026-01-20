@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rohit Singh</h1>
-<h3 align="center">A Passionate Full-Stack MERN Developer from India</h3>
+<h3 align="center">
+  Full-Stack Developer | Python & Django Developer | MERN Stack Engineer from India 🇮🇳
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohitsinghcodes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+MERN+Developer;Problem+Solver+%7C+DSA+Enthusiast;Building+10+Projects+in+10+Days"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=110&lines=Full-Stack+Developer+(MERN+%26+Django);Backend-Focused+Python+Engineer;Problem+Solver+%7C+DSA+Enthusiast;Building+Scalable+Real-World+Projects"/>
 </p>
 
 ---
@@ -15,16 +17,19 @@
 ## 🚀 About Me
 
 <p>
-  I'm a passionate Full-Stack Developer dedicated to transforming ideas into seamless digital experiences. I love building scalable web applications with clean architecture and performance in mind.
+  I'm a passionate <strong>Full-Stack & Backend-Oriented Developer</strong> who loves turning ideas into scalable, production-ready applications.
+  I enjoy designing clean architectures, writing efficient backend logic, and building complete systems from scratch.
 </p>
+
 <ul>
-  <li>🚀 Currently crafting production-grade projects using the MERN Stack.</li>
-  <li>📘 Built the <strong>BookStore App</strong> — a full-featured, live eCommerce platform.</li>
-  <li>🔍 Exploring <strong>System Design</strong>, <strong>DevOps</strong>, and <strong>Cloud Engineering</strong> to enhance my backend architecture knowledge.</li>
-  <li>🧠 Avid problem solver with <strong>200+ problems solved on LeetCode</strong>. <a href="https://leetcode.com/rohitsinghcodes/">See Profile</a></li>
-  <li>🎯 Daily learner with a strong foundation in <strong>Data Structures & Algorithms</strong>.</li>
-  <li>📄 View my <a href="https://www.canva.com/design/DAGmwdEQ6Vw/L8DiCneVGtxxOUw96yrvLA/view?utm_content=DAGmwdEQ6Vw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he28929fc99">Resume</a></li>
-  <li>⚽️ Off the keyboard — I enjoy Football, Cricket, and connecting with tech communities.</li>
+  <li>🚀 Building <strong>production-grade applications</strong> using <strong>Python, Django, MERN Stack</strong>.</li>
+  <li>🛒 Built multiple <strong>eCommerce platforms</strong> with authentication, cart, orders, and admin dashboards.</li>
+  <li>📘 Creator of <strong>BookStore App</strong> — a full-featured live eCommerce web application.</li>
+  <li>🧠 Solved <strong>200+ DSA problems on LeetCode</strong>. <a href="https://leetcode.com/rohitsinghcodes/">View Profile</a></li>
+  <li>🔍 Actively learning <strong>System Design, Django Internals, DevOps & Cloud</strong>.</li>
+  <li>🎯 Strong foundation in <strong>Data Structures, Algorithms & Backend Engineering</strong>.</li>
+  <li>📄 <a href="https://www.canva.com/design/DAGmwdEQ6Vw/L8DiCneVGtxxOUw96yrvLA/view">View Resume</a></li>
+  <li>⚽ Outside tech — Football, Cricket & tech community networking.</li>
 </ul>
 
 ---
@@ -53,6 +58,14 @@
       <td><a href="https://ebookstore-webapp.onrender.com/">Live</a></td>
     </tr>
     <tr>
+      <td><strong>GreatKart – Django eCommerce Platform</strong></td>
+      <td>Python, Django, PostgreSQL, Razorpay</td>
+      <td>
+        <a href="https://github.com/rohitsinghcodes/greatkart">GitHub</a>
+      </td>
+    </tr>
+    <tr>
+    <tr>
       <td>Hospital Management System</td>
       <td>MERN Stack, JWT, Admin Panel</td>
       <td>📇 Coming Soon</td>
@@ -70,8 +83,9 @@
 ## 🪰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,cpp,git,postman,vscode,render" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,django,postgres,git,postman,vscode,render" />
 </p>
+
 
 ---
 
